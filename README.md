@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D5E6C4&height=200&section=header&text=Welcome!&fontColor=fffce8&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D5E6C4&height=300&section=header&text=Welcome!&fontColor=fffce8&fontSize=60)
 
 <div align="center">
   
+
   ### 🌱 INTRODUCE 🌱
   
   안녕하세요🙌 개발자 꿈나무 심민혜입니다😊
