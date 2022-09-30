@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 🌱 SIM MIN-HYE 🌱
+  ### 🌱 INTRODUCE 🌱
   
   안녕하세요🙌 개발자 꿈나무 심민혜입니다😊
 
